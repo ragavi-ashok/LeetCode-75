@@ -24,9 +24,9 @@ Each file contains:
 1. Clone the repository:
    ```bash
    https://github.com/ragavi-ashok/Leetcode.git
-2.Navigate to a category and review the solutions.
-3.Try solving the problems yourself before checking the solutions.
-4.Feel free to contribute or discuss alternative approaches!
+2.Navigate to a category and review the solutions.<br>
+3.Try solving the problems yourself before checking the solutions.<br>
+4.Feel free to contribute or discuss alternative approaches!<br>
 
 📈 Progress Tracker
 
