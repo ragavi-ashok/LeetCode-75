@@ -28,9 +28,9 @@ Each file contains:
 3.Try solving the problems yourself before checking the solutions.<br>
 4.Feel free to contribute or discuss alternative approaches!<br>
 
-📈 Progress Tracker
+📈 Progress Tracker <br>
 
-Day	Problems Solved
+Day	Problems Solved <br>
 Day 1	✅ ✅ ✅
 
 
