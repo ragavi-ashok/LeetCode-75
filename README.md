@@ -1,7 +1,7 @@
 # 🚀 LeetCode Interview Prep – Problem-Solving Strategies
 
 ## 📌 About This Repository
-This repository contains my solutions to **75+ LeetCode problems**, focusing on an **interview-style problem-solving approach**. The goal is not just to solve problems but to **think like an interviewer**, improve problem-solving skills, and help others by sharing insights.
+This repository contains my solutions to **75 LeetCode problems**, focusing on an **interview-style problem-solving approach**. The goal is not just to solve problems but to **think like an interviewer**, improve problem-solving skills, and help others by sharing insights.
 
 I will be **uploading solutions regularly**, aiming to solve **3 problems per day**. Each solution includes:
 - **Thought process**: How to break down and approach the problem.
