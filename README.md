@@ -31,7 +31,7 @@ Each file contains:
 📈 Progress Tracker <br>
 
 Day	Problems Solved <br>
-Day 1	✅ ✅ ✅
+Day 1	✅ 
 
 
 
